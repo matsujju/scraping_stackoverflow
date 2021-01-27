@@ -1,0 +1,24 @@
+Cache-Control: private
+Location: /questions/65923535/add-style-to-specific-multiple-divs-using-angular
+Server: Microsoft-IIS/10.0
+Strict-Transport-Security: max-age=15552000
+X-Route-Name: Questions/Show
+X-Frame-Options: SAMEORIGIN
+X-Sql-Count: 1
+X-Sql-Duration-Ms: 0
+X-Flags: AA
+X-Aspnet-Duration-Ms: 0
+X-Request-Guid: 3a117531-7516-47cb-b9c9-03e97ef34334
+X-Is-Crawler: 0
+X-Providence-Cookie: cdd32ec2-c469-3ff0-1722-a55b93c0989e
+Feature-Policy: microphone 'none'; speaker 'none'
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+Accept-Ranges: bytes
+Date: Wed, 27 Jan 2021 16:58:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-sin18026-SIN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1611766717.597252,VS0,VE230
+Vary: Fastly-SSL
+X-Dns-Prefetch-Control: off

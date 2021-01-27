@@ -1,0 +1,24 @@
+Cache-Control: private
+Location: https://stackoverflow.com/questions/30323224/deploying-a-minimal-flask-app-in-docker-server-connection-issues
+Server: Microsoft-IIS/10.0
+Strict-Transport-Security: max-age=15552000
+X-Route-Name: Questions/Show
+X-Frame-Options: SAMEORIGIN
+X-Sql-Count: 4
+X-Sql-Duration-Ms: 1
+X-Flags: AA
+X-Aspnet-Duration-Ms: 2
+X-Request-Guid: 97ea39aa-0744-4963-8f56-9faf13b67941
+X-Is-Crawler: 0
+X-Providence-Cookie: cdd32ec2-c469-3ff0-1722-a55b93c0989e
+Feature-Policy: microphone 'none'; speaker 'none'
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+Accept-Ranges: bytes
+Date: Wed, 27 Jan 2021 17:01:00 GMT
+Via: 1.1 varnish
+X-Served-By: cache-sin18040-SIN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1611766860.838108,VS0,VE232
+Vary: Fastly-SSL
+X-Dns-Prefetch-Control: off

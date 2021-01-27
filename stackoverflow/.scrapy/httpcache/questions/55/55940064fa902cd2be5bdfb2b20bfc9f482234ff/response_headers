@@ -1,0 +1,32 @@
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Server: Microsoft-IIS/10.0
+Strict-Transport-Security: max-age=15552000
+X-Route-Name: Questions/List
+X-Frame-Options: SAMEORIGIN
+X-Sql-Count: 4
+X-Sql-Duration-Ms: 3
+X-Redis-Count: 1
+X-Redis-Duration-Ms: 0
+X-Http-Count: 2
+X-Http-Duration-Ms: 2
+X-Te-Count: 1
+X-Te-Duration-Ms: 0
+X-Flags: AA
+X-Aspnet-Duration-Ms: 12
+X-Request-Guid: bb416d5f-fadf-46ff-8f9e-d159ad34ae28
+X-Is-Crawler: 0
+X-Providence-Cookie: cdd32ec2-c469-3ff0-1722-a55b93c0989e
+Feature-Policy: microphone 'none'; speaker 'none'
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+X-Page-View: 1
+Accept-Ranges: bytes
+Date: Wed, 27 Jan 2021 17:01:15 GMT
+Via: 1.1 varnish
+X-Served-By: cache-sin18040-SIN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1611766875.423020,VS0,VE242
+Vary: Accept-Encoding,Fastly-SSL
+X-Dns-Prefetch-Control: off
