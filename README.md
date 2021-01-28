@@ -29,7 +29,7 @@ git clone https://github.com/matsujju/scraping_stackoverflow.git
 cd Desktop/temp_folder/scraping_stackoverflow/        (Here temp_folder is in Desktop...choose your own path if different)
 pip install scrapy  (from terminal)
 ```
-You can run a spider using the s`crapy crawl` command, such as
+You can run a spider using the `scrapy crawl` command, such as
 ```
 $ scrapy crawl questions      (here questions is spider name)
 ```
