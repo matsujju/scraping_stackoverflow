@@ -1,7 +1,7 @@
 # Scraping_Stackoverflow
 This is a Scrapy project to scrape Questions and Tags from [Stackoverflow](https://stackoverflow.com/questions) and contains files in this repo.
 
-**Disclaimer: This Project is made for educational purpose only. I haven't scraped the whole stackoverflow. If you use this program, use at your own risk, the author won't be liable for your any deeds. Moreover, Stackoverflow do provide it's data in public domain from time to time and you can download it using their API.**
+**Disclaimer: This Project is made for educational purpose only. I haven't scraped the stackoverflow. If you use this program, use at your own risk, the author won't be liable for your any deeds. Moreover, Stackoverflow do provide it's data in public domain from time to time and you can download it using their API.**
 
 ## Extracted Data-
  This Project extracts Questions combined with their title and tags. The extracted data looks like this sample:
